@@ -1,0 +1,22 @@
+[
+  {"id":1,"username":"abhinay","salary":55000,"dept":"IT","joinDate":"2023-06-15"},
+  {"id":2,"username":"ravi_k","salary":60000,"dept":"Finance","joinDate":"2022-09-20"},
+  {"id":3,"username":"sneha_r","salary":48000,"dept":"HR","joinDate":"2021-01-05"},
+  {"id":4,"username":"megha","salary":75000,"dept":"IT","joinDate":"2020-11-10"},
+  {"id":5,"username":"kiran","salary":52000,"dept":"Marketing","joinDate":"2024-02-01"},
+  {"id":6,"username":"praveen","salary":58000,"dept":"IT","joinDate":"2023-03-12"},
+  {"id":7,"username":"anusha","salary":47000,"dept":"HR","joinDate":"2021-07-22"},
+  {"id":8,"username":"lokesh","salary":63000,"dept":"Finance","joinDate":"2022-05-19"},
+  {"id":9,"username":"divya","salary":49000,"dept":"Marketing","joinDate":"2023-01-25"},
+  {"id":10,"username":"vijay","salary":70000,"dept":"IT","joinDate":"2020-09-30"},
+  {"id":11,"username":"neha","salary":51000,"dept":"HR","joinDate":"2021-12-10"},
+  {"id":12,"username":"sudhakar","salary":66000,"dept":"Finance","joinDate":"2022-03-15"},
+  {"id":13,"username":"pallavi","salary":48000,"dept":"Marketing","joinDate":"2023-04-05"},
+  {"id":14,"username":"arjun","salary":72000,"dept":"IT","joinDate":"2020-10-18"},
+  {"id":15,"username":"swathi","salary":50000,"dept":"HR","joinDate":"2021-08-12"},
+  {"id":16,"username":"rajesh","salary":64000,"dept":"Finance","joinDate":"2022-11-20"},
+  {"id":17,"username":"bhavya","salary":47000,"dept":"Marketing","joinDate":"2023-02-14"},
+  {"id":18,"username":"manoj","salary":69000,"dept":"IT","joinDate":"2020-12-05"},
+  {"id":19,"username":"shreya","salary":52000,"dept":"HR","joinDate":"2021-05-28"},
+  {"id":20,"username":"harsha","salary":63000,"dept":"Finance","joinDate":"2022-07-08"}
+]
