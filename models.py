@@ -11,3 +11,10 @@ class Employee(Base):
     department = Column(String(50), nullable=False)
     joindate = Column(String(50), nullable=True)
     profile_pic = Column(String(355), nullable=True)
+
+class User(Base):
+    __tablename__ = "users"
+
+    id = Column(Integer, primary_key=True, index=True)
+    username = Column(String(50), unique=True, index=True, nullable=False)
+    password = Column(String(255), nullable=False)
