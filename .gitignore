@@ -1,18 +1,10 @@
-# Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-*.env
-*.sqlite3
-
-# Virtual environment
-venv/
-venu/
 env/
-ENV/
-.venv/
-
-# IDE files
-.vscode/
+venv/
+*.sqlite
+*.db
 .idea/
+.vscode/
